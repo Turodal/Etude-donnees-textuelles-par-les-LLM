@@ -70,7 +70,7 @@ Après exécution du programme, une page devrait s'ouvrir avec un graphique int�
 Pour les classes les plus précis affichées, il y a aussi un exemple de commentaire associé. Celui ci peut être caculé (le commentaire le plus proche du centroïde de la classe) ou peut être extrait grâce au LLM 
 
 
-# README: Analyse des réponses de consommateurs sur la beauté
+Analyse des réponses de consommateurs sur la beauté
 
 ## Description
 Ce script analyse un jeu de données provenant de consommateurs sur leurs perceptions de la beauté chez les hommes et les femmes. Il évalue des réponses à plusieurs questions en utilisant l'API **Ollama** pour obtenir des prédictions sur la complexité, les clichés, et la tonalité des réponses. Les résultats sont ensuite utilisés pour effectuer un calcul de l'alpha de Krippendorff, une mesure de la fiabilité entre les juges.
